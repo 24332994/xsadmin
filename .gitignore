@@ -99,3 +99,6 @@ celerybeat-*
 log/
 manage_dev.py
 xsadmin/settings_dev.py
+static_local/
+static_local_min/
+node_modules/
